@@ -301,6 +301,7 @@ display: none;
 /*-----------------how its work----------------*/
 .section-steps {
     background-color: #f4f4f4;
+    margin: -50px 0;
 }
  
 .steps-box{
@@ -358,7 +359,7 @@ display: none;
 }
 /*----------------testimonials--------------------*/
 .section-testimonials{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url(img/back-customers.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url(img/back-customers-min.jpg);
     background-size:cover;
 color: #fff;
 background-attachment:fixed ;
